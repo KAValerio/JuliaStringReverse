@@ -1,3 +1,5 @@
+#Simple script with 3 different string reversing functions
+
 function ReverseString1(str)
     ln = length(str)
     ot = ""
